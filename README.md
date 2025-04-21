@@ -7,10 +7,10 @@ This repo contains source code, notebooks, environment setup guides, and other r
 ## 🔧 Covered Topics
 
 - ✅ Python Environment Setup (venv, Poetry, Conda, Docker)
-- ✅ Python Basics for Data Science
-- ✅ Pandas, NumPy, Matplotlib
-- ✅ Jupyter Lab & Notebooks
-- ✅ Real-world data projects and case studies
+- ✅ Python Basics for Data Science (coming soon)
+- ✅ Pandas, NumPy, Matplotlib (coming soon)
+- ✅ Jupyter Lab & Notebooks (coming soon)
+- ✅ Real-world data projects and case studies (coming soon)
 - ✅ Machine Learning and AI (coming soon)
 
 ## 📁 Folder Structure

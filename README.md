@@ -26,11 +26,7 @@ data-mining-diaries-tutorials/
 │   ├── poetry/
 │   └── conda/
 │
-├── 02_python_basics/
-│   └── ...
-├── 03_pandas_intro/
-│   └── ...
-├── assets/              # For thumbnails, icons, etc.
+├── assets/
 └── LICENSE
 
 

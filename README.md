@@ -31,9 +31,11 @@ data-mining-diaries-tutorials/
 
 
 ```
+
 ## 📺 Follow Along
 
-Watch the videos on YouTube: [Data Mining Diaries](https://www.youtube.com/@DataMiningDiaries)
+🎬 YouTube: [Data Mining Diaries](https://www.youtube.com/@DataMiningDiaries) 
+📝 Blog: [https://dataminingdiaries.com](https://dataminingdiaries.com)
 
 ## 🤝 Contributions
 
